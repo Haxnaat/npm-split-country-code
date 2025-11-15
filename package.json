@@ -1,0 +1,12 @@
+{
+  "name": "split-country-code",
+  "version": "1.0.2",
+  "description": "Split phone numbers into country code and local number easily",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["phone", "country code", "split", "mobile", "tel", "number"],
+  "author": "Your Name",
+  "license": "MIT"
+}
